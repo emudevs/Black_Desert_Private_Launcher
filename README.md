@@ -26,4 +26,4 @@ v4 made the email textbox longer for a larger email address if needed and setup 
 Originals posts:
 
 http://forum.ragezone.com/f1000/release-simple-bdo-private-launcher-1146951/
-https://emudevs.ru/threads/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9-bdo-private-launcher.625/
+https://emudevs.ru/threads/release-simple-bdo-private-launcher.625/
