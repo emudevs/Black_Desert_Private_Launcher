@@ -24,5 +24,6 @@ v3 removes the space from between the login name and password (as it was it was 
 v4 made the email textbox longer for a larger email address if needed and setup comments in source files to help newer programmers learn a little bit about the functions i have created
 
 Originals posts:
+
 http://forum.ragezone.com/f1000/release-simple-bdo-private-launcher-1146951/
 https://emudevs.ru/threads/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9-bdo-private-launcher.625/
