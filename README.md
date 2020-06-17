@@ -1,4 +1,4 @@
-# Black_Desert_Private_Launcher
+# Black Desert Private Launcher
 I got annoyed at having to use a batch file to start the client so i made a simple launcher and decided to put it up here for you guys to use.
 
 What it looks like!
